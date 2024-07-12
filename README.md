@@ -32,4 +32,4 @@ Ela permite a realização em tempo real de processamento de grande volume de da
 
 ## 5. Referências
 
-* [Documentação para Spark com Python]([https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html](https://spark.apache.org/docs/latest/api/python/index.html)
+* [Documentação para Spark com Python](https://spark.apache.org/docs/latest/api/python/index.html)
